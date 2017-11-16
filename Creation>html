@@ -1,9 +1,15 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Page Title</title>
+		<title>Creation Games</title>
 	</head>
 	<body>
-		
+		 <div class="topnav" id="myTopnav">
+    <a href="index.html">Home</a>
+    <a href="Creation.html">Creation Games</a>
+    <a href="RPG.html">RPG</a>
+    <a href="adv.html">Adventure Games</a>
+   <a href="https://rhoughton.github.io/hardware/"> Gaming Hardware </a>
+  </div>	
 	</body>
 </html>
